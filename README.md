@@ -24,6 +24,27 @@ Stay connected with the **Kaspa** community:
 
 - [Kaspa Telegram Community](https://t.me/kaspachain)
 
+
+## 🛣️ Roadmap
+
+**L2 Faucet:**
+- Details: [https://faucet-l2d.krcbot.com](https://faucet-l2d.krcbot.com)
+- Code: Pending
+
+**L2 RPC:**
+- Details: Coming soon
+- Code: Pending
+- Features: Local Airgap, Devnet, Testnet, Mainnet; Debugging, Intelligent Queue, Speed
+
+**L2 Contracts:**
+- Samples, Deployment, Guidance, Education
+- Code: Pending
+
+**L1 Indexer Executor:**
+- Inspiration: [kasplex/indexer-executor](https://github.com/kasplex/indexer-executor)
+- Code: Pending
+
+
 ## 💸 Donate to Support Development
 
 Help support Kaspa Dev's development and express gratitude to the team. Any contribution goes a long way to enhancing functionality and sustaining growth.
